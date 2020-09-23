@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg,blue,yellow,red, green,orange);
+}
+canvas {
+  padding: 10px;
+  display: block;
+  border: 10px solid black;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
